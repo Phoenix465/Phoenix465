@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hewwo there 👋
+
+![Phoenix465's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phoenix465&show_icons=true&theme=radical)
+
 
 <!--
 **Phoenix465/Phoenix465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
