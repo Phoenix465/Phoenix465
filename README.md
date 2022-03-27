@@ -1,12 +1,14 @@
 ### Hewwo there 👋
 
 - 🌱 I’m currently learning ...
-  python
+- python
+  
 
 - 🔭 I’m currently working on ...
-  Phoenix Anistream
-  Minecraft v2
-  LAN Screenshare App with Game Controls (Windows -> Android)
+- Phoenix Anistream
+- Minecraft v2
+- LAN Screenshare App with Game Controls (Windows -> Android)
+
 
 ![Phoenix465's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phoenix465&show_icons=true&theme=radical)
 
