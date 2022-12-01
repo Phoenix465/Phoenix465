@@ -1,14 +1,16 @@
 ### Hewwo there 👋
 
-🌱 I’m currently learning ...
+🌱 I’m currently using ...
 - Python
+- C#
+- Luau
 
 ------------------------------
 
 🔭 I’m currently working on ...
-- Phoenix Anistream
 - Minecraft v2
 - LAN Screenshare App with Game Controls (Windows -> Android)
+- _____
 
 ------------------------------
 
