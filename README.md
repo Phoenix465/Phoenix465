@@ -1,4 +1,4 @@
-### Hewwo there 👋
+### Hiii there~ 👋
 
 🌱 I’m currently using ...
 - Python
